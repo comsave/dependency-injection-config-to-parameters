@@ -1,0 +1,11 @@
+{
+    "name": "comsave/dependency-injection-config-to-parameters",
+    "require": {
+        "symfony/dependency-injection": "^3.4|^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Comsave\\": "src/Comsave"
+        }
+    }
+}
