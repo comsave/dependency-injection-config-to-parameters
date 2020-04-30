@@ -1,6 +1,6 @@
 # dependancy-injection-config-to-parameters
 
-Injects configs as parameters into the container.
+Injects Symfony configs as parameters into the container.
 
 ## How to use?
 
